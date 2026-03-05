@@ -84,9 +84,9 @@ When I unplug, I'm usually shouting at the TV supporting the Indian Cricket Team
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karansalot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1917" alt="Karan's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karansalot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1917" alt="Karan's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansalot&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1917" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karansalot&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1917" alt="Top Languages" />
 </div>
 
 <br/>
